@@ -1,0 +1,201 @@
+﻿ID_Colaborador,Nome,Genero,Departamento,Cargo,Nivel,Salario_Atual,Data_Admissao,Data_Demissao,Status,Tipo_Desligamento,Motivo_Desligamento,Tipo_Contrato
+SOJA-001,Beatriz Souza,Feminino,RH & Administrativo,Analista de RH,Pleno,4491.06,2025-02-11,2025-08-28,Desligado,Voluntário (Pedido),Proposta de Outra Empresa,CLT
+SOJA-002,Carla Alves,Feminino,Financeiro & Risco,Analista de Risco e Hedging,Sênior,7464.36,2021-06-21,,Ativo,N/A,N/A,CLT
+SOJA-003,Isabela Silva,Feminino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,2777.87,2021-05-31,,Ativo,N/A,N/A,CLT
+SOJA-004,Karen Souza,Feminino,TI & Dados,Analista de Business Intelligence,Sênior,7342.48,2019-06-27,,Ativo,N/A,N/A,CLT
+SOJA-005,Rodrigo Souza,Masculino,Comercial & Trading,Analista de Trading,Sênior,6988.21,2025-06-22,2025-09-28,Desligado,Voluntário (Pedido),Salário/Benefícios,CLT
+SOJA-006,João Oliveira,Feminino,Comercial & Trading,Analista de Trading,Sênior,5860.23,2020-10-28,,Ativo,N/A,N/A,CLT
+SOJA-007,Gabriela Lima,Feminino,Financeiro & Risco,Analista de Risco e Hedging,Pleno,7369.49,2020-10-31,,Ativo,N/A,N/A,CLT
+SOJA-008,Isabela Pereira,Masculino,Comercial & Trading,Trader de Commodities,Liderança / Sênior,13732.8,2023-07-02,2024-05-03,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-009,Fernanda Costa,Feminino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,3384.68,2024-02-23,2024-10-12,Desligado,Voluntário (Pedido),Reestruturação,CLT
+SOJA-010,Rodrigo Lima,Masculino,Financeiro & Risco,Analista Financeiro,Pleno,4704.44,2024-09-18,,Ativo,N/A,N/A,CLT
+SOJA-011,Bruno Souza,Feminino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,3096.41,2023-04-26,,Ativo,N/A,N/A,CLT
+SOJA-012,Olivia Lima,Feminino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,3268.6,2022-10-25,2025-07-01,Desligado,Voluntário (Pedido),Performance,CLT
+SOJA-013,Ana Lima,Feminino,Financeiro & Risco,Assistente Contábil,Júnior / Operacional,3098.44,2024-09-10,,Ativo,N/A,N/A,CLT
+SOJA-014,Eduarda Ribeiro,Feminino,Financeiro & Risco,Analista de Risco e Hedging,Sênior,7596.31,2019-03-21,2023-01-14,Desligado,Voluntário (Pedido),Salário/Benefícios,CLT
+SOJA-015,Bruno Pereira,Feminino,Comercial & Trading,Analista de Trading,Pleno,6948.07,2020-06-09,,Ativo,N/A,N/A,CLT
+SOJA-016,Rodrigo Ferreira,Masculino,Financeiro & Risco,Analista Financeiro,Pleno,6418.03,2022-06-30,,Ativo,N/A,N/A,CLT
+SOJA-017,Caio Ribeiro,Masculino,Financeiro & Risco,Analista de Risco e Hedging,Pleno,6367.67,2022-10-16,2024-04-29,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-018,Henrique Silva,Feminino,RH & Administrativo,Analista de RH,Pleno,4148.28,2022-09-15,2024-04-14,Desligado,Voluntário (Pedido),Performance,CLT
+SOJA-019,Gabriela Rodrigues,Masculino,Logística Portuária,Analista de Logística Portuária,Pleno,4695.07,2023-11-01,,Ativo,N/A,N/A,CLT
+SOJA-020,Nicolas Almeida,Feminino,RH & Administrativo,Analista de RH,Sênior,4885.77,2020-03-23,2022-01-25,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-021,Olivia Rodrigues,Masculino,Logística Portuária,Analista de Logística Portuária,Pleno,4849.5,2023-12-21,,Ativo,N/A,N/A,CLT
+SOJA-022,Rodrigo Souza,Feminino,RH & Administrativo,Analista de RH,Pleno,6038.01,2020-11-12,,Ativo,N/A,N/A,CLT
+SOJA-023,Pedro Alves,Masculino,Comercial & Trading,Analista de Trading,Sênior,4506.47,2021-12-22,,Ativo,N/A,N/A,CLT
+SOJA-024,Olivia Gomes,Masculino,RH & Administrativo,Analista de RH,Pleno,4417.78,2019-08-28,,Ativo,N/A,N/A,CLT
+SOJA-025,Rodrigo Santos,Masculino,Comercial & Trading,Assistente Comercial,Júnior / Operacional,3572.15,2024-12-15,2025-11-30,Desligado,Voluntário (Pedido),Salário/Benefícios,CLT
+SOJA-026,Carla Oliveira,Feminino,TI & Dados,Suporte Técnico,Júnior / Operacional,3095.46,2019-06-12,,Ativo,N/A,N/A,CLT
+SOJA-027,Nicolas Costa,Masculino,Logística Portuária,Assistente de Agenciamento,Júnior / Operacional,3114.18,2021-12-23,,Ativo,N/A,N/A,CLT
+SOJA-028,Caio Gomes,Masculino,Operações & Armazéns,Supervisora de Operações,Liderança / Sênior,7874.86,2025-04-25,,Ativo,N/A,N/A,CLT
+SOJA-029,Carla Alves,Masculino,Logística Portuária,Coordenador de Logística,Liderança / Sênior,10517.08,2023-02-22,2024-08-13,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-030,Fernanda Gomes,Feminino,RH & Administrativo,Analista de RH,Pleno,6065.65,2021-12-19,2022-10-24,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-031,Rodrigo Rodrigues,Masculino,Operações & Armazéns,Supervisora de Operações,Liderança / Sênior,8652.84,2021-04-13,,Ativo,N/A,N/A,CLT
+SOJA-032,Isabela Lopes,Masculino,Comercial & Trading,Assistente Comercial,Júnior / Operacional,3508.29,2022-02-07,2024-03-21,Desligado,Voluntário (Pedido),Desalinhamento com Liderança,CLT
+SOJA-033,Felipe Almeida,Masculino,Financeiro & Risco,Analista de Risco e Hedging,Pleno,5763.35,2025-02-12,2025-08-15,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-034,Rodrigo Rodrigues,Masculino,Logística Portuária,Analista de Logística Portuária,Pleno,5148.09,2023-01-05,2023-12-16,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-035,Daniel Ribeiro,Masculino,Financeiro & Risco,Analista de Risco e Hedging,Pleno,8740.17,2020-10-27,,Ativo,N/A,N/A,CLT
+SOJA-036,Felipe Carvalho,Feminino,Logística Portuária,Analista de Logística Portuária,Sênior,6234.2,2021-10-13,2025-12-17,Desligado,Voluntário (Pedido),Performance,CLT
+SOJA-037,Bruno Lopes,Feminino,Logística Portuária,Analista de Logística Portuária,Pleno,4993.5,2021-07-02,2022-10-30,Desligado,Voluntário (Pedido),Desalinhamento com Liderança,CLT
+SOJA-038,Isabela Oliveira,Masculino,Operações & Armazéns,Operador de Silo/Terminal,Júnior / Operacional,2899.68,2025-01-05,2025-04-19,Desligado,Voluntário (Pedido),Desalinhamento com Liderança,CLT
+SOJA-039,Felipe Lima,Feminino,Comercial & Trading,Analista de Trading,Sênior,5537.06,2023-11-23,,Ativo,N/A,N/A,CLT
+SOJA-040,Rafaela Souza,Masculino,Financeiro & Risco,Analista Financeiro,Sênior,4302.09,2019-01-07,,Ativo,N/A,N/A,CLT
+SOJA-041,Rodrigo Alves,Masculino,TI & Dados,Suporte Técnico,Júnior / Operacional,3904.93,2022-07-09,,Ativo,N/A,N/A,CLT
+SOJA-042,Daniel Gomes,Masculino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,2902.4,2022-04-26,,Ativo,N/A,N/A,CLT
+SOJA-043,Gabriela Carvalho,Masculino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,2906.08,2019-01-02,2022-03-07,Desligado,Voluntário (Pedido),Reestruturação,CLT
+SOJA-044,Thiago Costa,Masculino,TI & Dados,Suporte Técnico,Júnior / Operacional,3056.44,2024-04-22,,Ativo,N/A,N/A,CLT
+SOJA-045,Gabriel Ferreira,Feminino,Operações & Armazéns,Operador de Silo/Terminal,Júnior / Operacional,3132.94,2022-10-04,2024-04-27,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-046,João Pereira,Feminino,Logística Portuária,Coordenador de Logística,Liderança / Sênior,7979.37,2024-04-30,,Ativo,N/A,N/A,CLT
+SOJA-047,Carla Almeida,Masculino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,2994.38,2021-09-26,2025-11-02,Desligado,Voluntário (Pedido),Proposta de Outra Empresa,CLT
+SOJA-048,Nicolas Pereira,Feminino,RH & Administrativo,Analista de RH,Pleno,5226.29,2024-02-13,2025-08-31,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-049,Rafaela Costa,Masculino,Financeiro & Risco,Assistente Contábil,Júnior / Operacional,3226.74,2025-02-22,,Ativo,N/A,N/A,CLT
+SOJA-050,Felipe Lopes,Masculino,Operações & Armazéns,Operador de Silo/Terminal,Júnior / Operacional,2777.31,2024-11-05,,Ativo,N/A,N/A,CLT
+SOJA-051,Henrique Lima,Masculino,Comercial & Trading,Analista de Trading,Sênior,5203.48,2022-08-02,,Ativo,N/A,N/A,CLT
+SOJA-052,Carla Rodrigues,Feminino,Logística Portuária,Assistente de Agenciamento,Júnior / Operacional,2952.81,2021-05-26,2023-12-06,Desligado,Voluntário (Pedido),Reestruturação,CLT
+SOJA-053,Olivia Carvalho,Feminino,Logística Portuária,Analista de Logística Portuária,Pleno,6552.58,2025-06-16,,Ativo,N/A,N/A,CLT
+SOJA-054,Ana Ribeiro,Masculino,TI & Dados,Suporte Técnico,Júnior / Operacional,3697.02,2025-02-14,,Ativo,N/A,N/A,CLT
+SOJA-055,Henrique Lopes,Feminino,Operações & Armazéns,Analista de Qualidade e Grãos,Sênior,3858.05,2023-07-15,,Ativo,N/A,N/A,CLT
+SOJA-056,Olivia Rodrigues,Feminino,TI & Dados,Suporte Técnico,Júnior / Operacional,3595.6,2019-12-10,,Ativo,N/A,N/A,CLT
+SOJA-057,Eduarda Almeida,Feminino,Comercial & Trading,Analista de Trading,Sênior,5482.06,2022-08-31,2025-01-13,Desligado,Voluntário (Pedido),Performance,CLT
+SOJA-058,Isabela Oliveira,Masculino,Comercial & Trading,Assistente Comercial,Júnior / Operacional,3062.5,2022-12-04,2023-07-22,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-059,Bruno Silva,Feminino,Logística Portuária,Assistente de Agenciamento,Júnior / Operacional,2952.38,2020-06-01,,Ativo,N/A,N/A,CLT
+SOJA-060,Daniel Alves,Masculino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,2667.79,2020-04-14,,Ativo,N/A,N/A,CLT
+SOJA-061,Felipe Gomes,Feminino,Financeiro & Risco,Analista Financeiro,Sênior,5524.33,2023-06-13,,Ativo,N/A,N/A,CLT
+SOJA-062,Gabriela Oliveira,Feminino,Comercial & Trading,Analista de Trading,Pleno,7050.88,2025-05-07,,Ativo,N/A,N/A,CLT
+SOJA-063,Lucas Carvalho,Masculino,Comercial & Trading,Assistente Comercial,Júnior / Operacional,3409.48,2023-09-17,,Ativo,N/A,N/A,CLT
+SOJA-064,Daniel Carvalho,Masculino,RH & Administrativo,Analista de RH,Sênior,4958.07,2025-01-13,,Ativo,N/A,N/A,CLT
+SOJA-065,Olivia Carvalho,Masculino,Operações & Armazéns,Supervisora de Operações,Liderança / Sênior,7336.78,2024-01-21,2025-08-08,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-066,Thiago Martins,Masculino,Comercial & Trading,Analista de Trading,Pleno,5045.52,2022-12-24,,Ativo,N/A,N/A,CLT
+SOJA-067,Karen Lima,Masculino,Financeiro & Risco,Assistente Contábil,Júnior / Operacional,3748.06,2019-12-17,2023-04-13,Desligado,Voluntário (Pedido),Reestruturação,CLT
+SOJA-068,Henrique Lopes,Masculino,TI & Dados,Engenheiro de Dados,Sênior,8824.06,2021-09-23,2025-03-27,Desligado,Voluntário (Pedido),Performance,CLT
+SOJA-069,Rodrigo Ribeiro,Masculino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,3202.85,2022-01-14,2023-07-30,Desligado,Voluntário (Pedido),Salário/Benefícios,CLT
+SOJA-070,Karen Souza,Feminino,Logística Portuária,Assistente de Agenciamento,Júnior / Operacional,3284.2,2024-11-18,,Ativo,N/A,N/A,CLT
+SOJA-071,Daniel Alves,Masculino,Logística Portuária,Coordenador de Logística,Liderança / Sênior,8209.07,2024-12-27,2025-04-19,Desligado,Voluntário (Pedido),Reestruturação,CLT
+SOJA-072,João Rodrigues,Masculino,Comercial & Trading,Assistente Comercial,Júnior / Operacional,3341.21,2024-05-14,,Ativo,N/A,N/A,CLT
+SOJA-073,Felipe Santos,Masculino,TI & Dados,Engenheiro de Dados,Pleno,9303.18,2025-06-21,,Ativo,N/A,N/A,CLT
+SOJA-074,Bruno Rodrigues,Feminino,Financeiro & Risco,Analista de Risco e Hedging,Pleno,8978.71,2025-04-04,,Ativo,N/A,N/A,CLT
+SOJA-075,Thiago Pereira,Masculino,TI & Dados,Analista de Business Intelligence,Sênior,7380.5,2022-06-04,,Ativo,N/A,N/A,CLT
+SOJA-076,Bruno Souza,Feminino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,3160.43,2020-10-05,2024-02-07,Desligado,Voluntário (Pedido),Salário/Benefícios,CLT
+SOJA-077,Ana Carvalho,Masculino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,2532.64,2022-03-26,,Ativo,N/A,N/A,CLT
+SOJA-078,Fernanda Almeida,Feminino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,3287.83,2021-03-21,,Ativo,N/A,N/A,CLT
+SOJA-079,Rodrigo Pereira,Feminino,Operações & Armazéns,Supervisora de Operações,Liderança / Sênior,6678.91,2022-06-13,,Ativo,N/A,N/A,CLT
+SOJA-080,Sophia Gomes,Masculino,Comercial & Trading,Assistente Comercial,Júnior / Operacional,3364.91,2023-07-07,,Ativo,N/A,N/A,CLT
+SOJA-081,Rafaela Lopes,Masculino,Comercial & Trading,Trader de Commodities,Liderança / Sênior,14281.25,2022-08-13,,Ativo,N/A,N/A,CLT
+SOJA-082,Ana Oliveira,Feminino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,3076.25,2020-12-18,,Ativo,N/A,N/A,CLT
+SOJA-083,Beatriz Almeida,Masculino,Logística Portuária,Analista de Logística Portuária,Sênior,5850.44,2020-01-09,,Ativo,N/A,N/A,CLT
+SOJA-084,Nicolas Costa,Masculino,RH & Administrativo,Analista de RH,Sênior,4725.57,2022-03-26,,Ativo,N/A,N/A,CLT
+SOJA-085,Mariana Santos,Masculino,Comercial & Trading,Analista de Trading,Sênior,5469.82,2024-10-08,,Ativo,N/A,N/A,CLT
+SOJA-086,Ana Almeida,Masculino,Comercial & Trading,Assistente Comercial,Júnior / Operacional,3434.14,2024-08-03,,Ativo,N/A,N/A,CLT
+SOJA-087,Bruno Alves,Masculino,Financeiro & Risco,Analista Financeiro,Sênior,5207.67,2020-05-12,2024-07-14,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-088,Henrique Ferreira,Masculino,Financeiro & Risco,Assistente Contábil,Júnior / Operacional,3207.99,2021-07-09,,Ativo,N/A,N/A,CLT
+SOJA-089,Daniel Almeida,Feminino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,3432.65,2022-04-10,,Ativo,N/A,N/A,CLT
+SOJA-090,Isabela Carvalho,Masculino,TI & Dados,Analista de Business Intelligence,Sênior,6453.8,2021-02-19,,Ativo,N/A,N/A,CLT
+SOJA-091,Rafaela Rodrigues,Feminino,Operações & Armazéns,Analista de Qualidade e Grãos,Sênior,5668.5,2019-01-11,2022-09-04,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-092,Sophia Lopes,Feminino,TI & Dados,Analista de Business Intelligence,Sênior,5835.37,2024-02-09,,Ativo,N/A,N/A,CLT
+SOJA-093,Gabriela Pereira,Masculino,Logística Portuária,Coordenador de Logística,Liderança / Sênior,8272.71,2024-04-21,,Ativo,N/A,N/A,CLT
+SOJA-094,Mariana Martins,Feminino,TI & Dados,Engenheiro de Dados,Sênior,9760.31,2020-02-16,,Ativo,N/A,N/A,CLT
+SOJA-095,Olivia Souza,Masculino,Comercial & Trading,Trader de Commodities,Liderança / Sênior,11164.86,2020-09-24,2025-05-20,Desligado,Voluntário (Pedido),Desalinhamento com Liderança,CLT
+SOJA-096,Thiago Martins,Feminino,Operações & Armazéns,Operador de Silo/Terminal,Júnior / Operacional,2880.01,2022-07-21,,Ativo,N/A,N/A,CLT
+SOJA-097,Pedro Santos,Feminino,Logística Portuária,Assistente de Agenciamento,Júnior / Operacional,3720.93,2021-07-20,,Ativo,N/A,N/A,CLT
+SOJA-098,Nicolas Souza,Feminino,TI & Dados,Suporte Técnico,Júnior / Operacional,3159.36,2019-04-29,2025-06-19,Desligado,Voluntário (Pedido),Desalinhamento com Liderança,CLT
+SOJA-099,Lucas Ribeiro,Masculino,Logística Portuária,Assistente de Agenciamento,Júnior / Operacional,3212.05,2021-01-07,2021-09-15,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-100,Mariana Pereira,Masculino,Financeiro & Risco,Analista de Risco e Hedging,Sênior,7114.02,2024-02-26,2024-06-04,Desligado,Voluntário (Pedido),Desalinhamento com Liderança,CLT
+SOJA-101,Caio Ferreira,Feminino,TI & Dados,Suporte Técnico,Júnior / Operacional,3158.99,2023-10-04,,Ativo,N/A,N/A,CLT
+SOJA-102,Olivia Gomes,Feminino,TI & Dados,Engenheiro de Dados,Sênior,8567.43,2025-06-12,2025-12-08,Desligado,Voluntário (Pedido),Proposta de Outra Empresa,CLT
+SOJA-103,Caio Martins,Masculino,Comercial & Trading,Assistente Comercial,Júnior / Operacional,3933.97,2019-07-20,,Ativo,N/A,N/A,CLT
+SOJA-104,Gabriel Lopes,Masculino,Logística Portuária,Analista de Logística Portuária,Pleno,4769.41,2021-10-23,,Ativo,N/A,N/A,CLT
+SOJA-105,Gabriel Rodrigues,Feminino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,3288.61,2019-05-17,,Ativo,N/A,N/A,CLT
+SOJA-106,Gabriel Rodrigues,Feminino,Operações & Armazéns,Operador de Silo/Terminal,Júnior / Operacional,2915.5,2021-04-02,2024-07-09,Desligado,Voluntário (Pedido),Reestruturação,CLT
+SOJA-107,Rafaela Lima,Feminino,Operações & Armazéns,Analista de Qualidade e Grãos,Sênior,5293.12,2020-04-16,,Ativo,N/A,N/A,CLT
+SOJA-108,Carla Rodrigues,Feminino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,2590.3,2023-06-05,2025-03-05,Desligado,Voluntário (Pedido),Performance,CLT
+SOJA-109,Lucas Lima,Masculino,RH & Administrativo,Analista de RH,Sênior,5484.64,2019-04-13,,Ativo,N/A,N/A,CLT
+SOJA-110,Rodrigo Costa,Feminino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,3409.39,2022-05-22,,Ativo,N/A,N/A,CLT
+SOJA-111,Daniel Rodrigues,Feminino,Comercial & Trading,Analista de Trading,Pleno,4848.36,2025-01-10,2025-11-28,Desligado,Voluntário (Pedido),Reestruturação,CLT
+SOJA-112,Nicolas Rodrigues,Masculino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,3115.65,2022-02-19,2024-06-16,Desligado,Voluntário (Pedido),Performance,CLT
+SOJA-113,Olivia Pereira,Masculino,Comercial & Trading,Analista de Trading,Sênior,6133.4,2019-09-06,,Ativo,N/A,N/A,CLT
+SOJA-114,Gabriela Souza,Masculino,Comercial & Trading,Trader de Commodities,Liderança / Sênior,12671.08,2019-03-29,2022-11-15,Desligado,Voluntário (Pedido),Salário/Benefícios,CLT
+SOJA-115,Sophia Alves,Feminino,Financeiro & Risco,Assistente Contábil,Júnior / Operacional,3015.95,2021-08-12,2022-09-08,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-116,Ana Lima,Feminino,Logística Portuária,Analista de Logística Portuária,Pleno,6276.14,2019-04-16,2023-01-04,Desligado,Voluntário (Pedido),Reestruturação,CLT
+SOJA-117,Karen Silva,Feminino,Operações & Armazéns,Supervisora de Operações,Liderança / Sênior,8725.15,2024-11-24,2025-03-26,Desligado,Voluntário (Pedido),Performance,CLT
+SOJA-118,Lucas Souza,Masculino,Financeiro & Risco,Assistente Contábil,Júnior / Operacional,2843.37,2024-11-05,2025-12-29,Desligado,Voluntário (Pedido),Proposta de Outra Empresa,CLT
+SOJA-119,Pedro Martins,Masculino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,3212.4,2023-12-22,2024-06-11,Desligado,Voluntário (Pedido),Reestruturação,CLT
+SOJA-120,Eduarda Oliveira,Feminino,Operações & Armazéns,Operador de Silo/Terminal,Júnior / Operacional,3085.36,2022-08-24,,Ativo,N/A,N/A,CLT
+SOJA-121,Thiago Gomes,Masculino,Financeiro & Risco,Analista Financeiro,Pleno,4428.11,2025-03-08,,Ativo,N/A,N/A,CLT
+SOJA-122,Gabriela Carvalho,Masculino,Logística Portuária,Analista de Logística Portuária,Sênior,6351.29,2023-08-31,,Ativo,N/A,N/A,CLT
+SOJA-123,Karen Carvalho,Masculino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,3453.59,2024-04-26,2024-10-20,Desligado,Voluntário (Pedido),Performance,CLT
+SOJA-124,Daniel Ribeiro,Feminino,Financeiro & Risco,Assistente Contábil,Júnior / Operacional,3756.62,2025-04-19,2025-08-18,Desligado,Voluntário (Pedido),Desalinhamento com Liderança,CLT
+SOJA-125,Caio Carvalho,Feminino,Operações & Armazéns,Analista de Qualidade e Grãos,Pleno,4503.29,2020-09-25,,Ativo,N/A,N/A,CLT
+SOJA-126,Henrique Souza,Masculino,Financeiro & Risco,Analista de Risco e Hedging,Pleno,8169.12,2023-10-24,,Ativo,N/A,N/A,CLT
+SOJA-127,Thiago Silva,Masculino,Comercial & Trading,Analista de Trading,Sênior,6608.1,2022-10-23,,Ativo,N/A,N/A,CLT
+SOJA-128,Felipe Rodrigues,Masculino,Comercial & Trading,Assistente Comercial,Júnior / Operacional,3759.81,2019-05-06,2023-12-23,Desligado,Voluntário (Pedido),Performance,CLT
+SOJA-129,Nicolas Almeida,Masculino,Logística Portuária,Analista de Logística Portuária,Pleno,6076.15,2019-08-04,2025-03-26,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-130,Bruno Oliveira,Masculino,TI & Dados,Analista de Business Intelligence,Sênior,6256.99,2023-08-24,2025-04-29,Desligado,Voluntário (Pedido),Desalinhamento com Liderança,CLT
+SOJA-131,Nicolas Souza,Masculino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,2545.42,2023-06-07,,Ativo,N/A,N/A,CLT
+SOJA-132,Bruno Silva,Feminino,Operações & Armazéns,Supervisora de Operações,Liderança / Sênior,8792.48,2022-03-31,2022-07-14,Desligado,Voluntário (Pedido),Performance,CLT
+SOJA-133,Felipe Rodrigues,Masculino,Financeiro & Risco,Analista de Risco e Hedging,Sênior,7250.92,2019-10-23,,Ativo,N/A,N/A,CLT
+SOJA-134,Gabriel Santos,Masculino,Comercial & Trading,Trader de Commodities,Liderança / Sênior,14103.72,2025-06-16,,Ativo,N/A,N/A,CLT
+SOJA-135,Mariana Carvalho,Masculino,Comercial & Trading,Trader de Commodities,Liderança / Sênior,14780.3,2020-12-04,,Ativo,N/A,N/A,CLT
+SOJA-136,Thiago Almeida,Masculino,Comercial & Trading,Trader de Commodities,Júnior / Operacional,10081.56,2023-06-29,,Ativo,N/A,N/A,CLT
+SOJA-137,Mariana Gomes,Masculino,Logística Portuária,Coordenador de Logística,Liderança / Sênior,7305.52,2020-04-12,,Ativo,N/A,N/A,CLT
+SOJA-138,Gabriela Ribeiro,Masculino,RH & Administrativo,Analista de RH,Sênior,4226.17,2021-03-19,2022-04-26,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-139,Carla Ferreira,Masculino,TI & Dados,Suporte Técnico,Júnior / Operacional,3338.69,2025-05-01,,Ativo,N/A,N/A,CLT
+SOJA-140,Thiago Costa,Masculino,Logística Portuária,Coordenador de Logística,Liderança / Sênior,8875.68,2022-05-25,,Ativo,N/A,N/A,CLT
+SOJA-141,Sophia Santos,Masculino,Financeiro & Risco,Analista Financeiro,Pleno,5262.01,2019-08-22,,Ativo,N/A,N/A,CLT
+SOJA-142,João Oliveira,Feminino,Financeiro & Risco,Assistente Contábil,Júnior / Operacional,3184.48,2025-03-20,,Ativo,N/A,N/A,CLT
+SOJA-143,Gabriel Santos,Masculino,Financeiro & Risco,Analista de Risco e Hedging,Sênior,6625.34,2024-08-15,2024-12-14,Desligado,Voluntário (Pedido),Proposta de Outra Empresa,CLT
+SOJA-144,Karen Oliveira,Feminino,Comercial & Trading,Assistente Comercial,Júnior / Operacional,3525.31,2023-12-05,,Ativo,N/A,N/A,CLT
+SOJA-145,Thiago Ferreira,Masculino,Operações & Armazéns,Analista de Qualidade e Grãos,Sênior,4617.54,2019-08-03,,Ativo,N/A,N/A,CLT
+SOJA-146,Beatriz Costa,Feminino,Operações & Armazéns,Operador de Silo/Terminal,Júnior / Operacional,3178.38,2022-03-09,2025-10-23,Desligado,Voluntário (Pedido),Desalinhamento com Liderança,CLT
+SOJA-147,Carla Rodrigues,Masculino,Operações & Armazéns,Operador de Silo/Terminal,Júnior / Operacional,3162.14,2020-06-12,,Ativo,N/A,N/A,CLT
+SOJA-148,Carla Gomes,Masculino,RH & Administrativo,Analista de RH,Pleno,5474.26,2023-10-01,,Ativo,N/A,N/A,CLT
+SOJA-149,Ana Ribeiro,Masculino,Logística Portuária,Analista de Logística Portuária,Sênior,6663.94,2021-02-25,2022-03-03,Desligado,Voluntário (Pedido),Proposta de Outra Empresa,CLT
+SOJA-150,João Souza,Feminino,RH & Administrativo,Analista de RH,Pleno,5313.94,2020-10-26,2024-12-12,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-151,Felipe Almeida,Feminino,TI & Dados,Suporte Técnico,Júnior / Operacional,3663.5,2023-12-25,,Ativo,N/A,N/A,CLT
+SOJA-152,Gabriel Almeida,Feminino,Financeiro & Risco,Analista Financeiro,Sênior,6420.87,2021-03-05,,Ativo,N/A,N/A,CLT
+SOJA-153,Sophia Almeida,Masculino,Operações & Armazéns,Operador de Silo/Terminal,Júnior / Operacional,3027.46,2020-10-25,,Ativo,N/A,N/A,CLT
+SOJA-154,Thiago Rodrigues,Masculino,Comercial & Trading,Analista de Trading,Pleno,7122.35,2024-10-14,,Ativo,N/A,N/A,CLT
+SOJA-155,João Oliveira,Feminino,Operações & Armazéns,Operador de Silo/Terminal,Júnior / Operacional,2647.35,2023-11-27,2024-10-09,Desligado,Voluntário (Pedido),Desalinhamento com Liderança,CLT
+SOJA-156,Ana Carvalho,Feminino,TI & Dados,Analista de Business Intelligence,Pleno,5507.33,2023-03-16,2024-05-05,Desligado,Voluntário (Pedido),Desalinhamento com Liderança,CLT
+SOJA-157,Eduarda Rodrigues,Feminino,Operações & Armazéns,Operador de Silo/Terminal,Júnior / Operacional,3331.11,2024-04-05,,Ativo,N/A,N/A,CLT
+SOJA-158,Ana Oliveira,Feminino,Operações & Armazéns,Supervisora de Operações,Liderança / Sênior,8146.41,2024-12-01,,Ativo,N/A,N/A,CLT
+SOJA-159,João Pereira,Masculino,Comercial & Trading,Trader de Commodities,Liderança / Sênior,11228.87,2024-02-16,2025-10-09,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-160,Rodrigo Silva,Feminino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,2929.24,2022-12-16,2024-05-15,Desligado,Voluntário (Pedido),Proposta de Outra Empresa,CLT
+SOJA-161,Rafaela Ribeiro,Feminino,Financeiro & Risco,Assistente Contábil,Júnior / Operacional,3586.41,2024-09-10,,Ativo,N/A,N/A,CLT
+SOJA-162,Mariana Lopes,Feminino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,2753.65,2019-03-08,,Ativo,N/A,N/A,CLT
+SOJA-163,Carla Ribeiro,Feminino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,2633.41,2022-12-14,,Ativo,N/A,N/A,CLT
+SOJA-164,Beatriz Ferreira,Masculino,RH & Administrativo,Analista de RH,Pleno,5785.29,2024-02-18,2024-12-10,Desligado,Voluntário (Pedido),Salário/Benefícios,CLT
+SOJA-165,Bruno Costa,Masculino,Financeiro & Risco,Assistente Contábil,Júnior / Operacional,3273.4,2019-05-30,,Ativo,N/A,N/A,CLT
+SOJA-166,Gabriela Gomes,Masculino,Comercial & Trading,Analista de Trading,Sênior,5319.65,2023-11-25,,Ativo,N/A,N/A,CLT
+SOJA-167,Gabriel Almeida,Masculino,Operações & Armazéns,Analista de Qualidade e Grãos,Sênior,5184.14,2024-10-27,2025-03-08,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-168,Nicolas Oliveira,Masculino,Financeiro & Risco,Assistente Contábil,Júnior / Operacional,3093.77,2020-02-25,2024-09-15,Desligado,Voluntário (Pedido),Desalinhamento com Liderança,CLT
+SOJA-169,Olivia Carvalho,Feminino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,2947.13,2022-12-15,,Ativo,N/A,N/A,CLT
+SOJA-170,Nicolas Lima,Feminino,Comercial & Trading,Assistente Comercial,Júnior / Operacional,3487.45,2024-10-02,,Ativo,N/A,N/A,CLT
+SOJA-171,Caio Ferreira,Feminino,Logística Portuária,Assistente de Agenciamento,Júnior / Operacional,3581.31,2019-05-23,2022-04-29,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-172,Lucas Ribeiro,Masculino,Financeiro & Risco,Assistente Contábil,Júnior / Operacional,2953.44,2024-01-17,,Ativo,N/A,N/A,CLT
+SOJA-173,Lucas Almeida,Feminino,Financeiro & Risco,Assistente Contábil,Júnior / Operacional,3166.95,2022-07-11,,Ativo,N/A,N/A,CLT
+SOJA-174,Henrique Souza,Feminino,RH & Administrativo,Assistente Administrativo,Júnior / Operacional,3017.75,2025-04-19,2025-09-22,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-175,Olivia Alves,Masculino,RH & Administrativo,Analista de RH,Pleno,4269.8,2024-01-26,2025-07-24,Desligado,Voluntário (Pedido),Desalinhamento com Liderança,CLT
+SOJA-176,Caio Ribeiro,Feminino,Financeiro & Risco,Analista Financeiro,Pleno,6250.06,2020-12-14,,Ativo,N/A,N/A,CLT
+SOJA-177,Rafaela Pereira,Feminino,Logística Portuária,Coordenador de Logística,Liderança / Sênior,10161.49,2019-04-18,,Ativo,N/A,N/A,CLT
+SOJA-178,Sophia Ribeiro,Masculino,Financeiro & Risco,Assistente Contábil,Júnior / Operacional,3684.25,2019-09-27,2025-01-08,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-179,Pedro Carvalho,Masculino,Financeiro & Risco,Analista de Risco e Hedging,Pleno,8903.33,2024-01-18,,Ativo,N/A,N/A,CLT
+SOJA-180,Rafaela Ribeiro,Feminino,Financeiro & Risco,Assistente Contábil,Júnior / Operacional,2981.96,2020-06-12,,Ativo,N/A,N/A,CLT
+SOJA-181,Bruno Souza,Feminino,Operações & Armazéns,Supervisora de Operações,Liderança / Sênior,7467.98,2021-07-12,2024-09-06,Desligado,Voluntário (Pedido),Proposta de Outra Empresa,CLT
+SOJA-182,Isabela Alves,Masculino,Logística Portuária,Analista de Logística Portuária,Pleno,5797.51,2024-08-20,,Ativo,N/A,N/A,CLT
+SOJA-183,Sophia Rodrigues,Feminino,RH & Administrativo,Analista de RH,Pleno,5815.52,2019-11-29,2024-08-06,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-184,Isabela Alves,Masculino,Financeiro & Risco,Analista de Risco e Hedging,Sênior,7243.13,2022-05-22,,Ativo,N/A,N/A,CLT
+SOJA-185,Caio Martins,Masculino,TI & Dados,Suporte Técnico,Júnior / Operacional,2871.9,2023-12-06,,Ativo,N/A,N/A,CLT
+SOJA-186,Olivia Alves,Masculino,Financeiro & Risco,Analista Financeiro,Sênior,6181.42,2022-11-15,,Ativo,N/A,N/A,CLT
+SOJA-187,Eduarda Ribeiro,Feminino,Operações & Armazéns,Analista de Qualidade e Grãos,Sênior,4045.04,2021-10-12,2022-04-23,Desligado,Voluntário (Pedido),Performance,CLT
+SOJA-188,Thiago Carvalho,Feminino,Logística Portuária,Assistente de Agenciamento,Júnior / Operacional,3521.13,2021-02-16,,Ativo,N/A,N/A,CLT
+SOJA-189,Pedro Almeida,Masculino,Operações & Armazéns,Supervisora de Operações,Liderança / Sênior,6770.15,2023-05-30,,Ativo,N/A,N/A,CLT
+SOJA-190,Henrique Alves,Masculino,Comercial & Trading,Analista de Trading,Sênior,5984.68,2022-03-16,,Ativo,N/A,N/A,CLT
+SOJA-191,Daniel Carvalho,Feminino,Operações & Armazéns,Analista de Qualidade e Grãos,Sênior,5327.71,2019-07-05,,Ativo,N/A,N/A,CLT
+SOJA-192,Sophia Alves,Masculino,Financeiro & Risco,Analista de Risco e Hedging,Sênior,6852.22,2025-03-02,2025-11-06,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
+SOJA-193,Thiago Souza,Feminino,Comercial & Trading,Analista de Trading,Sênior,6884.69,2025-04-03,,Ativo,N/A,N/A,CLT
+SOJA-194,Eduarda Alves,Masculino,Financeiro & Risco,Analista de Risco e Hedging,Sênior,5636.2,2024-04-24,,Ativo,N/A,N/A,CLT
+SOJA-195,Eduarda Rodrigues,Masculino,Financeiro & Risco,Analista de Risco e Hedging,Sênior,6875.34,2022-10-09,,Ativo,N/A,N/A,CLT
+SOJA-196,Rafaela Lopes,Masculino,TI & Dados,Analista de Business Intelligence,Pleno,5793.72,2023-09-03,,Ativo,N/A,N/A,CLT
+SOJA-197,Gabriel Silva,Masculino,Operações & Armazéns,Operador de Silo/Terminal,Júnior / Operacional,3077.63,2019-07-30,,Ativo,N/A,N/A,CLT
+SOJA-198,Felipe Martins,Feminino,RH & Administrativo,Analista de RH,Pleno,5259.65,2021-02-20,2023-02-22,Desligado,Voluntário (Pedido),Salário/Benefícios,CLT
+SOJA-199,Nicolas Alves,Masculino,Financeiro & Risco,Analista Financeiro,Pleno,6207.48,2020-07-19,,Ativo,N/A,N/A,CLT
+SOJA-200,Rodrigo Costa,Masculino,Financeiro & Risco,Analista Financeiro,Sênior,6400.38,2024-12-23,2025-09-20,Desligado,Involuntário (Demissão),Performance / Reestruturação,CLT
