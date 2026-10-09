@@ -1,4 +1,4 @@
-#🌾 People Analytics: Dashboard de Turnover & Headcount (SoyBean Trading Corp)
+# 🌾 People Analytics: Dashboard de Turnover & Headcount (SoyBean Trading Corp)
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
