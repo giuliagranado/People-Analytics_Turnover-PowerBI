@@ -30,13 +30,13 @@ O projeto visa responder a perguntas estratégicas do setor de Recursos Humanos 
 
 ## 📁 Estrutura do Repositório
 ```
-├── data/                    # Bases de dados simuladas em Excel/CSV
-├── scripts_python/          # Scripts automatizados para geração da base
-├── dashboard/              # apresentação visual da análise de dados feita
-│     └── fotos/            # print do dashboard
-└── README.md                # Documentação do projeto
+├── dashboard/             # apresentação visual da análise de dados feita
+│     └── fotos/           # prints do dashboard
+├── data/                  # bases de dados simuladas em Excel/CSV
+├── docs/                   # pesquisa realizada / glossário   
+├── scripts_python/        # Scripts automatizados para geração da base
+└── README.md              # documentação do projeto
 ```
-
 ---
 
 ## 📌 Próximas Etapas do Desenvolvimentos
@@ -46,4 +46,4 @@ O projeto visa responder a perguntas estratégicas do setor de Recursos Humanos 
 - [x] Implementação das Medidas em DAX (Headcount Ativo, Total Demissões e % Turnover).
 - [x] Desenvolvimento da **Página 1: Visão Geral do Turnover & Headcount**.
 - [x] Expansão para a **Página 2: Diagnóstico de Retenção & Motivos de Desligamento**.
-- [ ] Design do Dashboard e documentação de todo trabalho realizado.
+- [x] Design do Dashboard e documentação de todo trabalho realizado.
