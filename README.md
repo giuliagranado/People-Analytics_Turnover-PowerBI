@@ -5,7 +5,7 @@
 ![DAX](https://img.shields.io/badge/DAX-Data_Analysis_Expressions-blue?style=for-the-badge)
 
 ## 🏢 Sobre a Empresa (Cenário Fictício)
-A **SoyBean Trading Corp** é uma empresa fictícia do setor de agronegócio, especializada no comércio exterior, originando e exportando soja pelo Porto de Santos. Com operações integradas de trading, logística portuária, controle de qualidade em armazéns e gestão financeira de risco (hedging), a empresa conta com um quadro histórico de **200 colaboradores** distribuídos em 6 departamentos principais.
+A **SoyBean Trading Corp** é uma empresa fictícia do setor de agronegócio, especializada no comércio exterior, originando e exportando soja pelo Porto de Santos. Com operações integradas de trading, logística portuária, controle de qualidade em armazéns e gestão financeira de risco, a empresa conta com um quadro histórico de **200 colaboradores** distribuídos em 6 departamentos principais.
 
 > ⚠️ **Aviso de Dados Simulados:** Todos os dados utilizados neste projeto foram gerados sinteticamente via script Python para fins puramente analíticos, acadêmicos e demonstrativos de competências em **People Analytics e Business Intelligence**.
 
@@ -30,10 +30,10 @@ O projeto visa responder a perguntas estratégicas do setor de Recursos Humanos 
 
 ## 📁 Estrutura do Repositório
 ```
-├── assets/                  # Imagens e GIFs demonstrativos do dashboard
 ├── data/                    # Bases de dados simuladas em Excel/CSV
 ├── scripts_python/          # Scripts automatizados para geração da base
-│   └── generate_hr_data.py  # Script em Python com regras de negócio e dados sintéticos
+├── dashboard/              # apresentação visual da análise de dados feita
+│     └── fotos/            # print do dashboard
 └── README.md                # Documentação do projeto
 ```
 
@@ -42,7 +42,8 @@ O projeto visa responder a perguntas estratégicas do setor de Recursos Humanos 
 ## 📌 Próximas Etapas do Desenvolvimentos
 - [x] Definição do cenário de negócio e regras de People Analytics.
 - [x] Automação da base de dados sintética em Python.
-- [ ] Construção do Modelo de Dados (Star Schema) e Tabela Calendário no Power BI.
-- [ ] Implementação das Medidas em DAX (Headcount Ativo, Total Demissões e % Turnover).
-- [ ] Desenvolvimento da **Página 1: Visão Geral do Turnover & Headcount**.
-- [ ] Expansão para a **Página 2: Diagnóstico de Retenção & Motivos de Desligamento**.
+- [x] Construção do Modelo de Dados (Star Schema) e Tabela Calendário no Power BI.
+- [x] Implementação das Medidas em DAX (Headcount Ativo, Total Demissões e % Turnover).
+- [x] Desenvolvimento da **Página 1: Visão Geral do Turnover & Headcount**.
+- [x] Expansão para a **Página 2: Diagnóstico de Retenção & Motivos de Desligamento**.
+- [ ] Design do Dashboard e documentação de todo trabalho realizado.
