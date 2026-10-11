@@ -9,14 +9,13 @@ Este repositório contém o dashboard interativo de **People Analytics** desenvo
 ```text
 dashboard/
 ├── fotos/
-│   ├── pagina1_visao_geral.png         # Captura de tela da Página 1
-│   └── pagina2_diagnostico_retencao.png # Captura de tela da Página 2
-├── Dashboard_People_Analytics.pbix     # Arquivo do relatório no Power BI
-├── Relatorio_People_Analytics.pdf      # Exportação do dashboard em PDF
-└── README.md                           # Documentação da pasta
+│   ├── pagina1_visao_geral.png             # captura de tela da Página 1
+│   └── pagina2_diagnostico_retencao.png    # captura de tela da Página 2
+├── Dashboard_People_Analytics.pbix         # arquivo do relatório no Power BI
+├── Relatorio_People_Analytics.pdf          # exportação do dashboard em PDF
+└── README.md                               # documentação da pasta
 ```
 
-> 💡 **Nota:** Para que as imagens apareçam corretamente neste `README.md`, renomeie as imagens dentro da pasta `fotos` para `pagina1_visao_geral.png` e `pagina2_diagnostico_retencao.png` (ou ajuste os nomes no código do README).
 
 ---
 
@@ -33,7 +32,7 @@ dashboard/
 ---
 
 ### Página 2: Diagnóstico de Retenção & Motivos de Saída
-![Página 2 - Diagnóstico de Retenção](fotos/pagina2_diagnostico_retencao.png)
+![Página 2 - Diagnóstico de Retenção](fotos/pagina2_retencao.png)
 
 * **Tipo de Desligamento:** Proporção entre saídas Voluntárias (pedidos de demissão) e Involuntárias (desligamentos pela empresa).
 * **Análise de Causas:** Principais motivos alegados para o desligamento (*Exit Interview*).
